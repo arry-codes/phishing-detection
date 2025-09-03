@@ -47,7 +47,7 @@ The model is trained on a comprehensive dataset containing:
 * Known phishing URLs from PhishTank and other sources
 * Various URL and content-based features
 
-<img width="500" height="400" alt="output1" src="https://github.com/user-attachments/assets/9efce8c0-3045-485a-893e-76ecd48e6360" />
+<img width="600" height="400" alt="output1" src="https://github.com/user-attachments/assets/9efce8c0-3045-485a-893e-76ecd48e6360" />
 
 ## Results 
 
