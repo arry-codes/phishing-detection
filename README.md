@@ -47,6 +47,8 @@ The model is trained on a comprehensive dataset containing:
 * Known phishing URLs from PhishTank and other sources
 * Various URL and content-based features
 
+<img width="1258" height="1330" alt="output1" src="https://github.com/user-attachments/assets/9efce8c0-3045-485a-893e-76ecd48e6360" />
+
 ## Results 
 
 Our best performing model achieves:
@@ -55,6 +57,9 @@ Our best performing model achieves:
 * Precision: 97.2%
 * Recall: 96.8%
 * F1-Score: 97.0%
+
+<img width="898" height="988" alt="output" src="https://github.com/user-attachments/assets/e23839a0-0fe6-4649-89ba-0744e8bc52bb" />
+
 
 ## Interface 🌐
 <img width="1440" height="900" alt="Screenshot 2025-07-23 at 9 38 24 PM" src="https://github.com/user-attachments/assets/7992aad0-f6c0-4ecf-b261-5a82d4d2ecc5" />
