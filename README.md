@@ -42,17 +42,19 @@ pip install -r requirements.txt
 ## Dataset
 
 The model is trained on a comprehensive dataset containing:
-    * Legitimate websites from Alexa top sites
-    * Known phishing URLs from PhishTank and other sources
-    * Various URL and content-based features
+
+* Legitimate websites from Alexa top sites
+* Known phishing URLs from PhishTank and other sources
+* Various URL and content-based features
 
 ## Results 
 
 Our best performing model achieves:
-    * Accuracy: 98.7%
-    * Precision: 97.2%
-    * Recall: 96.8%
-    * F1-Score: 97.0%
+
+* Accuracy: 98.7%
+* Precision: 97.2%
+* Recall: 96.8%
+* F1-Score: 97.0%
 
 ## Interface 🌐
 <img width="1440" height="900" alt="Screenshot 2025-07-23 at 9 38 24 PM" src="https://github.com/user-attachments/assets/7992aad0-f6c0-4ecf-b261-5a82d4d2ecc5" />
