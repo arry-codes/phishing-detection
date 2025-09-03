@@ -41,14 +41,14 @@ pip install -r requirements.txt
 
 ## Dataset
 
-* The model is trained on a comprehensive dataset containing:
+The model is trained on a comprehensive dataset containing:
     - Legitimate websites from Alexa top sites
     - Known phishing URLs from PhishTank and other sources
     - Various URL and content-based features
 
 ## Results 
 
-* Our best performing model achieves:
+Our best performing model achieves:
     - Accuracy: 98.7%
     - Precision: 97.2%
     - Recall: 96.8%
