@@ -17,7 +17,7 @@ A machine learning-based solution designed to detect phishing websites with high
 
 * Feature Extraction: Analyzes URL structure, domain information, and content features
 
-* Real-time Prediction: Using our Chrome Extension "PhishGuard"
+* Real-time Prediction: Using our Chrome Extension "PhishGuard" which uses the Google Safe Browsing API to warn about malicious websites
 
 
 
